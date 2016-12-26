@@ -1,0 +1,5 @@
+
+English : Eng
+Hindi : Hin
+Qwerty : qwe
+Ujeev : ujv

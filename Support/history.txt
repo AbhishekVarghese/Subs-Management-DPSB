@@ -1,0 +1,12 @@
+Started application 1st time 20:44:07
+Date : 11/13/16
+Day : Sunday
+Current Time : 20:44:07
+Database : Not selected
+Save directory :E:/\xa0/Engagement2/engagement_list.xls
+
+Database changed :()20:44:22
+restarting 20:44:27
+Starting application  20:44:27
+quitting 20:44:35
+Times restarted = 1

@@ -1,0 +1,18 @@
+Problem1 : Clicking on Create Engagement list Generates an error/ Nothing happens. 
+Solution : The selected database has not been selected properly. Reselect it using Select 
+            database button.
+
+Problem2 : Progam Closes while creating Engagement list.
+Solution : The selected database is not a valid database or it contains error. 
+            Check your database using the Check Database button.
+
+Problem3 : Created xcel sheet is in another format.
+Solution : The save location is not set properly or does not have '.xls' extension.
+            Set the save location again using Select Save directory button
+
+Problem4 : Unable to create Subjects (workload) message appears.
+Solution : The file ../support/subjects.txt contains all the subject loaded by the user.
+       Entries are in the form - "Subject : SubjAbrivation". Any deviation from the above
+       format of any subject will stop from loading the subjects to protect the subjects.txt
+       from getting corrupted. If the error comes on the screen go to subjects file and correct
+       the format manually or delete everything from it.
